@@ -1,0 +1,44 @@
+*{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+.box{
+    background-color: rgb(86, 71, 135);
+    height: 150px;
+    width: 300px;
+}
+.text{
+    background-color: rgb(64, 121, 140);
+    height: 150px;
+    width: 300px;
+}
+h1{
+    color: blue;
+    background-color: rgb(159, 227, 205);
+}
+h2{
+    color: darkolivegreen;
+    background-color: rgb(212, 162, 111);
+}
+h3{
+    color: seagreen;
+background-color: rgb(212, 153, 132);
+}
+h4{
+    color: red;
+    background-color: rgb(163, 155, 215);
+}
+.box h1{
+    color: black;
+    background-color: rgb(52, 117, 238);
+}
+.text div{
+    background-color: rgb(202, 255, 77);
+    font-weight: bold;
+    font-style: oblique;color: #04639a;
+
+}
+.mai{
+ 
+}
